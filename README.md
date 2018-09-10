@@ -1,3 +1,3 @@
 # Portal Demo
 
-practicing and showcasing capabilities of apple ARKit
+practicing and showcasing capabilities of apple ARKit with Unity
